@@ -1,0 +1,10 @@
+.header__square-pic {
+  background-image: url(/how-to-learn/images/triangle.svg);
+  background-color: var(--links-color);
+  position: absolute;
+  top: 64px;
+  z-index: 0;
+  right: 0;
+  height: 568px;
+  width: 568px;
+}

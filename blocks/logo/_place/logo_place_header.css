@@ -1,0 +1,10 @@
+.logo_place_header {
+  margin: 30px auto auto 64px;
+  position: absolute;
+  z-index: 2;
+  transition: opacity 0.2s linear;
+}
+
+.logo_place_header:hover {
+  opacity: 0.5;
+}

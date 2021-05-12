@@ -1,0 +1,7 @@
+.logo_place_footer {
+  transition: opacity 0.2s linear;
+}
+
+.logo_place_footer:hover {
+  opacity: 0.5;
+}
