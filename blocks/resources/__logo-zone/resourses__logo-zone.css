@@ -1,7 +1,9 @@
-.resourses__logo_zone {
+.resourses__logo-zone {
   display: flex;
   flex-wrap: wrap;
   width: 1100px;
   margin: 80px auto 217px;
   justify-content: center;
 }
+
+

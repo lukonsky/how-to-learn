@@ -2,7 +2,9 @@
   position: absolute;
   color: var(--text-color);
   width: 388px;
-  margin: 0 0 30px 64px;
+  margin: 0;
+  left: 64px;
+  bottom: 30px;
   align-self: flex-end;
   line-height: 25px;
   font-size: 18px;

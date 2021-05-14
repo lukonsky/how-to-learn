@@ -7,6 +7,7 @@
   font-size: 30px;
   font-weight: normal;
   transition: opacity 0.2s linear;
+  align-self: baseline;
 }
 
 .khan__buy-link:hover {

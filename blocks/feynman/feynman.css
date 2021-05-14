@@ -5,6 +5,7 @@
   background-position: bottom 0px left 0px;
   background-repeat: no-repeat;
   background-size: 867px 637px;
+  background-color: var(--light-background-color);
   display: flex;
   position: relative;
   align-items: center;
